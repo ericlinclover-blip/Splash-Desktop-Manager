@@ -36,6 +36,9 @@ Splash Desktop Manager 是 [Splash](https://github.com/incoai/splash) 本地推�
 | **1.1.0** | **[Splash-Desktop-Manager-1.1.0.dmg](https://github.com/ericlinclover-blip/Splash-Desktop-Manager/raw/main/Splash-Desktop-Manager-1.1.0.dmg)** | 2.9 MB | macOS 14+ / Apple 芯片（M 系列） |
 
 > 这是**应用本体**，不含引擎与模型权重。推理引擎会在首次启动时由应用帮你安装，模型也在向导里下载。
+>
+> 也可以从 [Releases 页面](https://github.com/ericlinclover-blip/Splash-Desktop-Manager/releases/latest) 下载。
+> 校验完整性：SHA-256 `4e94e1351dbb0992f4dc58d4d11ab11c23a599216a6c4242aeea32c0fa54bc1f`
 
 ## 🚀 安装（约 30 秒）
 
