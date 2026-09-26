@@ -35,6 +35,9 @@ parameters, reading live telemetry, chatting, and connecting coding agents — l
 
 This is the app itself; the engine and any model weights are installed on first run.
 
+Also available from the [Releases page](https://github.com/ericlinclover-blip/Splash-Desktop-Manager/releases/latest).
+SHA-256: `4e94e1351dbb0992f4dc58d4d11ab11c23a599216a6c4242aeea32c0fa54bc1f`
+
 ## Install
 
 1. Download and open the `.dmg`
